@@ -1,0 +1,22 @@
+{
+  ".gitignore": "8d87504a13d36a1803e72081883bfc2b026f8ce37ee29406c5cf34bce34c2268",
+  "LICENSE": "1d0dde41ece0f9620937f1a81a67e295ace0eae180c009d862006e8f3b288458",
+  "README.md": "fefe74c8f989fb31cf7e176c8058d34d4560474cae11b139e84e6e5ec214c35f",
+  "code/0_math_approach/_debruitage_query_core.py": "be7cb832483e2143e11e9b0b7cc094ce3b9abdae48155bcb458bda4867a22f44",
+  "code/0_math_approach/debruitage_baseline.py": "1c79b0b0920ba8b3944a20ded8ae30f5c3def3fbab428c6dbc3ac6c03b3636a2",
+  "code/0_math_approach/debruitage_evalue_cluster.py": "c4b22ce699441f1219a6507f1cb3048e4dd5816bee9dfd14672eadd03fe07569",
+  "code/0_math_approach/debruitage_evalue_requete.py": "26b0665719fd0051cd029338c8cdfdaf3982399c6e5644ed4a7f3d6110f141bd",
+  "code/0_math_approach/direct_feed_local.py": "6ab92b2b165c0b565b26ba064f0e65f359763ef517d0798fc4bf416bf9fd7ab3",
+  "code/local_embedders.py": "069c5705feb31959e178b630e9fcad8f7ee53b049de3f6012c28edc9e65325c2",
+  "code/local_store.py": "bd0172f729e99190236e5511a700659e33bb65c305a1f88983af4bb7a2900f0a",
+  "code/mteb_benchmark/__init__.py": "759a1e9295decb90828e7f19fcdede8cc9751025ece5672e2133a9a91d5af219",
+  "code/mteb_benchmark/config.py": "cd22e1b50b1992af2ff1d4c47f062dfc89ff1d1002902dfa11206c1cf89891b8",
+  "code/mteb_benchmark/dataset_loader.py": "646e0079e5a49c4759a8ce07d36176b77de5b25bdecf3abe2e6c61dd189efa2b",
+  "code/mteb_benchmark/evaluation.py": "fa100c4ea7630daf1f0c9ff20c6dd72e0cd80cbc437dcf1cbdd6584b5d6219c6",
+  "code/neutral_phrases.py": "7b675dc3a3a283730587a4b19b7c0e7af00a0229caf7cb725bdad6d6e176b8ce",
+  "code/projection_utils.py": "ae89fee5aa967a7245070fb0ab3dd6044ad6927ca9ee621cba8a9170908b59e1",
+  "code/requirements-local.txt": "9c7c7488c57f120d0a40cedcb64f98a06e4ffaa9c4535fb431eb0450c8db2d07",
+  "run_local_demo.sh": "b5dd49d353107cbceb2bca33190c9bacc399556923a6b44a81c508eee3aaa3cb",
+  "supplement/complements.pdf": "294aeaf82c0a3e805a028b27c5743ca97a677a47e053777f8e4870ec58541b59",
+  "supplement/complements.tex": "8b3b7f73c40b12ed0ba2c6be2f12ae2d3e9ea78fa3302d91b562a7f6d669b099"
+}

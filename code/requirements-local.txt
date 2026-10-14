@@ -1,0 +1,16 @@
+# Dependencies for the local NoSQL reproducibility path.
+# MiniLM embedding is local after downloading the model. The openai backend calls the OpenAI API
+# or any OpenAI-compatible endpoint (OPENAI_API_KEY or --api-key).
+numpy
+pandas
+scikit-learn
+torch
+sentence-transformers
+datasets
+tinydb
+tqdm
+python-dotenv
+requests
+pytrec_eval
+openai
+deap
